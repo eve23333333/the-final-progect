@@ -1,0 +1,15 @@
+﻿  billing_file.cpp
+  billing_service.cpp
+  card_file.cpp
+  card_service.cpp
+  main.cpp
+  menu.cpp
+  money_file.cpp
+  service.cpp
+  statistic.cpp
+  tool.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 63 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AMS.vcxproj -> C:\Users\eve\Desktop\learn_AcountMassageSystem-master\AMS\x64\Release\AccountManagement.exe

@@ -1,0 +1,2 @@
+C:\Users\eve\Desktop\learn_AcountMassageSystem-master\AMS\x64\Debug\AccountManagement.exe
+C:\Users\eve\Desktop\AcountMassageSystem-master\x64\Debug\AccountManagement.exe
